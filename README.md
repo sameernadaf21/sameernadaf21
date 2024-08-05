@@ -11,12 +11,10 @@
 <div align="center">
  
  🔭 I’m currently working on **optimization of deep learning models**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
 
 💬 Ask me about **image denoising, federated learning, DSA, or anything related to deep learning [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
 
 </div>
  
