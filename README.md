@@ -25,6 +25,10 @@
   <a href="https://www.linkedin.com/in/sameer-nadaf-b617bb150/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="https://www.instagram.com/sameer.nadaf.21/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+</a>
+
 
  
 </div>
