@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **optimization of deep learning models**
 
-💬 Ask me about **image denoising, federated learning, DSA, or anything related to deep learning [here](https://github.com/sameernadaf21/sameernadaf21/issues)**
+💬 Ask me about **image denoising, federated learning, or anything related to deep learning [here](https://github.com/sameernadaf21/sameernadaf21/issues)**
 
 
 
