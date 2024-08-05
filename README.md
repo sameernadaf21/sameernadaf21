@@ -59,6 +59,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   <img width="390" src="https://github-readme-streak-stats-sameernadaf21.vercel.app/?user=sameernadaf21&theme=react&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-stats-sameernadaf21.vercel.app/api?username=sameernadaf21&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
