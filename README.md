@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sameer+Nadaf!;" />
 </h1>
 
-<h3 align="center">A research student from Canada 🇨🇦 specializing in deep learning</h3>
+<h3 align="center">A research student from KLE Technological University focusing on deep learning</h3>
 
 <br/>
 
