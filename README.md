@@ -64,9 +64,11 @@
     <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=sameernadaf21&theme=react&border_radius=10" alt="streak stats"/>
   </a>
   <!-- GitHub Readme Stats --
-
+  
     
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=sameernadaf21&show_icons=true&locale=entheme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=khushi-habib04&show_icons=true&locale=en" alt="khushi-habib04" />
+    
   
   <br/>
  
