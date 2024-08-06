@@ -64,15 +64,15 @@
     <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=sameernadaf21&theme=react&border_radius=10" alt="streak stats"/>
   </a>
   <!-- GitHub Readme Stats --
+
     
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=sameernadaf21&hide=contribs,prs&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=sameernadaf21&show_icons=true&locale=entheme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   
   <br/>
  
   <!-- Top Languages -->
     
-
-   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameernadaf21&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="sameerbadaf21" />
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameernadaf21&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="sameerbadaf21" />
 </div>
 
 
