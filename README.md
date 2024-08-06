@@ -70,9 +70,9 @@
   <br/>
  
   <!-- Top Languages -->
- 
+    
 
-   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameernadaf21&show_icons=true&locale=en&layout=compact" alt="sameerbadaf21" />
+   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameernadaf21&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="sameerbadaf21" />
 </div>
 
 
