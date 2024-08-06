@@ -60,7 +60,7 @@
 <br>
 <div align="center">
  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=sameernadaf21&theme=react&border_radius=10" alt="streak stats"/>
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=khushi-habib04&show_icons=true&locale=en" alt="khushi-habib04" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=sameernadaf21&theme=react&border_radius=10" alt="sameernadaf21" />
 <br/>
 <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameernadaf21&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="sameerbadaf21" />
 </div>
